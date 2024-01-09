@@ -6,3 +6,12 @@ I began the program May 1st, 2023 with little to no coding experience, especiall
 
 ## Important Note
 Please do not use my work as your own. That is not the intended purpose for this portfolio. This portfolio is meant to be a repository of examples only, since I found such examples to be very helpful in this program.
+
+## Time Spent
+| Class       | Time Needed to Finish |
+| ----------- | ----------------------|
+| D204        | 2.71 weeks            |
+| D205        | 6 weeks               |
+| D206        | 7 weeks               |
+| D207        | 5 weeks               |
+| D208        | TBD                   |
