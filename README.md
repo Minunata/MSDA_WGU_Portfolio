@@ -14,4 +14,5 @@ Please do not use my work as your own. That is not the intended purpose for this
 | D205        | 6 weeks               |
 | D206        | 7 weeks               |
 | D207        | 5 weeks               |
-| D208        | TBD                   |
+| D208        | 6.43 weeks            |
+| D209        | TBD                   |
