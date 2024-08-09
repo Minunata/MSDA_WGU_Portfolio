@@ -8,6 +8,8 @@ I began the program May 1st, 2023 with little to no coding experience, especiall
 Please do not use my work as your own. That is not the intended purpose for this portfolio. This portfolio is meant to be a repository of examples only, since I found such examples to be very helpful in this program.
 
 ## Time Spent
+I chose to do this program at a relaxed pace, so I could ensure I absorbed information for the long-term. I aimed to complete each class in about a month and a half.
+
 | Class       | Time Needed to Finish |
 | ----------- | ----------------------|
 | D204        | 2.71 weeks            |
