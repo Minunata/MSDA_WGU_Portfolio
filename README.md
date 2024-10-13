@@ -21,4 +21,4 @@ I chose to do this program at a relaxed pace, so I could ensure I absorbed infor
 | D210        | 7 weeks               |
 | D211        | 7 weeks               |
 | D212        | 6.29 weeks            |
-| D213        | TBD                   |
+| D213        | 8 weeks               |
