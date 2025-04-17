@@ -22,3 +22,6 @@ I chose to do this program at a relaxed pace, so I could ensure I absorbed infor
 | D211        | 7 weeks               |
 | D212        | 6.29 weeks            |
 | D213        | 8 weeks               |
+| D214        | 8-9 weeks-ish*        |
+
+* Certain professor made it harder than it had to be, wasting a whole month over nitpicky stuff.
